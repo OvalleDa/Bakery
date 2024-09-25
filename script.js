@@ -42,9 +42,3 @@ var swiper = new Swiper(".mySwiper-2",{
     }
 });
 
-
-let tabInputs = document.querySelectorAll(".tabInput");
-
-tabInputs.forEach(function(input){
-    
-})
